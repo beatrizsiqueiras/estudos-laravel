@@ -73,7 +73,7 @@ header {
     margin: 0 auto;
 }
 
-#events-container {
+#events-container, #event-create-container {
     padding: 50px;
 }
 
@@ -126,7 +126,7 @@ header {
 footer {
     text-align: center;
     background-color: #c5812e;
-    color:#FFF ;
+    color: #FFF;
     padding: 30px;
     position: absolute;
     bottom: 0;
